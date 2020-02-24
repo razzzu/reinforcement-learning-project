@@ -11,4 +11,4 @@ This repository contains python notebooks used to develop an ATARI game playing 
 
 If you are new to Reinforcement learning or OpenAI Gym check out the [Tutorial Notebook](./rl_openai_tutorial.ipynb) Notebook.
 
-All the notebooks should run on Google Colab. 
+This was a class project and developed under an aggressive deadline and the notebooks have not been updated after the project so the files and code is not well organized. All the notebooks should run on Google Colab. 
