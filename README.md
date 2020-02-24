@@ -7,3 +7,8 @@ This repository contains python notebooks used to develop an ATARI game playing 
 - AirRaid - 2995 
 - Centipede - 4332
 
+## Reinforcement Learning Turtorial
+
+If you are new to Reinforcement learning or OpenAI Gym check out the (./rl_openai_tutorial.ipynb) Notebook.
+
+All the notebooks should run on Google Colab. 
